@@ -1,8 +1,0 @@
-1.	Training a model using a training set without outliers. (we get: Model_1)
-2.	Training a model to classify outliers. (we get: Model_2)
-3.	Using Model_2 to predict whether an card_id in test set is an outliers.
-4.	Spliting out the card_id from Outlier_Likelyhood with top 10% (or some other ratio) score. 
-5.	Combining submission usingbest submission (that is, your best model) to predict Outlier_ID in test set and using Model_1 to predict the rest of the test set.
-
-competition information
-https://www.kaggle.com/c/elo-merchant-category-recommendation
