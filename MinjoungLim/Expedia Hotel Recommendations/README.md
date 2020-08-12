@@ -1,4 +1,4 @@
-##Expedia Hotel Recommendations
+Expedia Hotel Recommendations
 
 사용자의 정보를 보고 예약할 확률이 높은 5개의 호텔을 추천하기
 
